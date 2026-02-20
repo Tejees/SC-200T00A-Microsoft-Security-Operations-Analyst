@@ -40,7 +40,7 @@ In this task, you will create a Log Analytics workspace for use with Microsoft D
 
     ![](./images/Ex1-03.png)
 
-1. Wait for the new workspace to be provisioned, this may take a few minutes.
+1. Wait for the new workspace to be provisioned, This may take a few minutes.
    
     ![](./images/Ex1-04.png)
 
@@ -82,5 +82,6 @@ In this lab, you have completed the following:
 ## You have successfully completed the exercise!
 
 ### Now, click on **Next >>** from the lower right corner to move on to the next page.
+
 
    ![](./images/Next.png)
